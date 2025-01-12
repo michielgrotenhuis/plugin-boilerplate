@@ -1,6 +1,6 @@
 # Uvodo Plugin Boilerplate
 
-#### This is boilerplate for uvodo plugin. You can download or clone repo , and start to develop a plugin for Uvodo
+#### This is boilerplate for store.icu plugin. You can download or clone repo , and start to develop a plugin for Uvodo
 
 ****
 
